@@ -10,13 +10,12 @@
     "autoprefixer": "^10.4.21",
     "framer-motion": "^12.17.3",
     "i18next": "^25.2.1",
-    "i18next-browser-languagedetector": "^8.2.0",
     "lucide-react": "^0.511.0",
     "postcss": "^8.5.4",
     "react": "^19.1.0",
     "react-countup": "^6.5.3",
     "react-dom": "^19.1.0",
-    "react-i18next": "^15.5.3",
+    "react-i18next": "^12.3.1",
     "react-intersection-observer": "^9.16.0",
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.17",
@@ -45,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
   }
 }

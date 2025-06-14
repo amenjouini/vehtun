@@ -2,7 +2,6 @@ import React, { useState, useEffect, useRef } from "react";
 import { useInView } from "react-intersection-observer";
 import { motion, useAnimation, animate } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import videoSrc from "./assets/img.jpg";
 
 
 // Import icons from lucide-react
